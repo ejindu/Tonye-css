@@ -1,0 +1,70 @@
+=<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> My Portfolio</title>
+</head>
+<style>
+body {background-color:yellowgreen;}  
+</style>
+<body>
+    <HEAder>
+            <h1 style="color:coral"><center>EJINDU MERCY</h1>
+
+            <h3 style="color:blue">CAREER SUMMARY</h3>
+            <p> 
+                I am highly motivated and result-Oriented individual <br> Possess excellent communication, analytical and organizational skills to work with diverse groups effectively. Ability  to adapt to new environment and migrate from the existing technologies seamlessly  
+            
+           </p> 
+            
+    </HEAder> 
+
+    <hr>
+    <img src="https://res.cloudinary.com/mercy45/image/upload/v1566755711/234_705_653_0677_20190309_082800_vpoajq.jpg" alt="my pic">
+
+    <h3 style="color:blue">WORK EXPERIENCE</h3>
+    <p> <b>BRISCOE TECHNOLOGIES LIMITED,IKEJA, LAGOS.</b> <br><b>Noc / Mobile Radio Engineer<i> 
+        
+        .July 2011–June 2015</i></b> </p>
+    <ul>
+        <li>	Set up Automatic Vehicle Location Systems (AVLS) on the mobile units</li>
+        <li>	Monitored base station sites remotely using the SNMP root subnet and hyper terminal launch to view the clients radio communications activities</li>
+        <li>	Tested hardware, created logs and took stock of all clients faulty radios and radio  accessories to monitor outgoing and incoming client radio activitiess</li>
+         <li>	Configured of two way digital handheld, base radios and Mobile Units</li>
+         <li>	Monitored the Tetra and Hytera  Site remotely  and ensured to keep the site Engineer aware of the current situation </li>
+         <hr>
+
+        
+    <h3 style="color:blue">SKILLS</h3>
+    <p>
+            <LI>Microsoft office package (MS Word, Excel)</LI>
+            <li>	Analytical Thing</li>
+            <li>Administration</li>
+            <li>	Customer Service</li>
+            <li>Team work</li>
+        </uL></p>
+            
+        <hr>
+    <H3 style="color:blue">EDUCATION</H3>
+        <P>
+            <UL>
+                <LI>	Institute Of Safety Professionals Of Nigeria                                                                           2013
+                        HSE Competence Development Training (Level 3) 
+                        </LI>
+                 <Li>•Anambra State University Uli,  Anambra State, Nigeria.		                                 2005-2009
+                        B.Eng. (Hons) Electrical Electronic Engineering(SecondClass).
+                    </Li>       
+                    
+            </UL>
+        </P>
+        <hr>
+        <footer>
+            <h3 style="color:blue">CONTACT ME</h3>
+            <tr> <b> Email</b><tr></tr></tr>
+            <a href="email">ejindum@gmail.com</a>
+           <p><tr> <b>Mobile</b></tr>: <a href="">07056530677</a></p> 
+          <p><tr><b>Address</b></tr> : <a href=""><a href=""><a href="">9 Adesina Street, Off Oshogbo Street,Aguda, Lagos State.</a></p>
+        </footer>
+</body>
+</html>
